@@ -1,0 +1,33 @@
+{
+	"what" : 
+	[
+		{
+			"description" : "Tiffany is the bus driver for this line",
+			"model" : "Unitrain L line"
+		},
+		{
+			"description" : "It belongs to the instructor",
+			"model" : "Android Device"
+		}
+	],
+	"when" : 
+	{
+		"time" : "2023-04-12T18:32:00+0700"
+	},
+	"where" : 
+	{
+		"latitude" : 38.564416124309432,
+		"longitude" : -121.71917367026707
+	},
+	"who" : 
+	[
+		{
+			"identity" : "instructor",
+			"name" : "Felix"
+		},
+		{
+			"identity" : "bus driver",
+			"name" : "Tiffany"
+		}
+	]
+}

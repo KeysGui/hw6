@@ -1,0 +1,41 @@
+{
+	"what" : 
+	[
+		{
+			"description" : "It belongs to the instructor",
+			"model" : "Android Device"
+		},
+		{
+			"description" : "John's personal computer.",
+			"model" : "computer device"
+		},
+		{
+			"description" : "Tiffany is the bus driver for this line",
+			"model" : "Unitrain L line"
+		}
+	],
+	"when" : 
+	{
+		"time" : "2023-04-12T18:10:00+0700"
+	},
+	"where" : 
+	{
+		"latitude" : 38.53933566907282,
+		"longitude" : -121.75367827130925
+	},
+	"who" : 
+	[
+		{
+			"identity" : "ecs36B student",
+			"name" : "John"
+		},
+		{
+			"identity" : "bus driver",
+			"name" : "Tiffany"
+		},
+		{
+			"identity" : "instructor",
+			"name" : "Felix"
+		}
+	]
+}

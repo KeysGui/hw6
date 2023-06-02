@@ -1,0 +1,33 @@
+{
+	"what" : 
+	[
+		{
+			"description" : "It belongs to the instructor",
+			"model" : "Android Device"
+		},
+		{
+			"description" : "John's personal computer.",
+			"model" : "computer device"
+		}
+	],
+	"when" : 
+	{
+		"time" : "2023-04-12T18:00:00+0700"
+	},
+	"where" : 
+	{
+		"latitude" : 38.538032332835158,
+		"longitude" : -121.74996578596833
+	},
+	"who" : 
+	[
+		{
+			"identity" : "instructor",
+			"name" : "Felix"
+		},
+		{
+			"identity" : "ecs36B student",
+			"name" : "John"
+		}
+	]
+}
